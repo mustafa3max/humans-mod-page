@@ -1,0 +1,20 @@
+Humans Mod - Proprietary License
+
+Copyright (c) 2025 mustafamax
+
+This mod is proprietary and closed-source software.
+
+You are allowed to:
+- Download and use the compiled mod (JAR) in your Minecraft client.
+- Use the mod in videos, screenshots, or content creation, with credit.
+- Share links to the official Modrinth page.
+
+You are NOT allowed to:
+- Decompile, modify, or redistribute the mod.
+- Re-upload the mod to other websites.
+- Use the mod in modpacks without permission.
+
+This software is provided "as is", without any warranty or guarantee of any kind.
+
+For permissions or business inquiries, contact:
+mustafamaxdev@gmail.com
