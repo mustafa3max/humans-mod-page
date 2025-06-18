@@ -6,8 +6,8 @@ This mod is proprietary and closed-source software.
 
 You are allowed to:
 - Download and use the compiled mod (JAR) in your Minecraft client.
-- Use the mod in videos, screenshots, or content creation, with credit.
-- Share links to the official Modrinth page.
+- You may use the mod in videos, screenshots, or other content creation. Credit is appreciated but not required.
+- You are encouraged to share links to the official Modrinth page, but it is not mandatory.
 
 You are NOT allowed to:
 - Decompile, modify, or redistribute the mod.
