@@ -12,7 +12,7 @@ This is the official page for the **Humans Mod**, a cinematic and machinima-focu
 - Perfect for roleplays, storytelling, and machinima
 
 ## License
-See `LICENSE.txt` for full details.
+See [LICENSE.txt](LICENSE.txt) for full details.
 
 ## Contact
 For permissions, questions, or collaborations, contact: mustafamaxdev@gmail.com
