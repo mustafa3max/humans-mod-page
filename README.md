@@ -1,3 +1,5 @@
+![humans mod](images/bg-github.png)
+
 # Humans Mod (Closed-Source)
 
 This is the official page for the **Humans Mod**, a cinematic and machinima-focused Minecraft mod that adds fully controllable, customizable human entities.
