@@ -1,4 +1,4 @@
-![humans mod](images/bg-github.png)
+<img src="images/bg-github.png" alt="humans mod" width="100%">
 
 # Humans Mod (Closed-Source)
 
