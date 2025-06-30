@@ -43,3 +43,4 @@ For permissions, questions, or collaborations, contact: mustafamaxdev@gmail.com
 ## 📚 Documentation
 
 * [v1.0.0 Beta Documentation](docs/v1.0.0-beta.md)
+* [v1.0.1 Beta Documentation](docs/v1.0.1-beta.md)
