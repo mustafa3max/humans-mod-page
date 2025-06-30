@@ -40,6 +40,23 @@ For permissions, questions, or collaborations, contact: mustafamaxdev@gmail.com
 
 ---
 
+### 🎨 Create Your Own Skin or Animation!
+
+You can download the official model file here:  
+👉 [`models/humans-mod-model.zip`](models/humans-mod-model.zip)
+
+> ⚠️ **Important:**  
+> Do **not** modify the model structure in any way — including bone names, sizes, or hierarchy — or your custom skin/animation may not work correctly.
+
+✅ You're allowed to:
+- Create custom skins using this model
+- Make your own animations using GeckoLib (without changing the model)
+
+📩 Want your animation featured in the next release?  
+Feel free to reach out and submit your `.json` animation files for review!
+
+---
+
 ## 📚 Documentation
 
 * [v1.0.0 Beta Documentation](docs/v1.0.0-beta.md)
